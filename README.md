@@ -39,6 +39,6 @@ THEN I find a concise, descriptive title
 
 ## Deployed page
 
-Page published at: file:///C:/Users/cbros/desktop/projects/Horiseon-Challenge/index.html
+Page published at: https://christianbross33.github.io/Horiseon-Challenge/
 
 Git Hub Repo: https://github.com/ChristianBross33/Horiseon-Challenge
