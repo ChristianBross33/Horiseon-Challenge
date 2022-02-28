@@ -33,4 +33,12 @@ THEN I find a concise, descriptive title
 - consolidated repetitive css and made selectors more specific
 - re-organized css to better match sections in html
 
+## Screenshot
 
+![HoriseonScreen](./assets\images\Horiseon-Challenge.png)
+
+## Deployed page
+
+Page published at: file:///C:/Users/cbros/desktop/projects/Horiseon-Challenge/index.html
+
+Git Hub Repo: https://github.com/ChristianBross33/Horiseon-Challenge
