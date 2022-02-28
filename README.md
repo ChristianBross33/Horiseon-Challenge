@@ -35,7 +35,7 @@ THEN I find a concise, descriptive title
 
 ## Screenshot
 
-![HoriseonScreen](./assets\images\Horiseon-Challenge.png)
+![HoriseonScreen](./assets/images/Horiseon-Challenge.png)
 
 ## Deployed page
 
